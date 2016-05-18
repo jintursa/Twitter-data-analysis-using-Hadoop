@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Benjamin
+Build-Jdk: 1.7.0_05
+
+=======
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Benjamin
+Build-Jdk: 1.7.0_05
+
+>>>>>>> origin/master
